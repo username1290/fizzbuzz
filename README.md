@@ -1,6 +1,7 @@
 # FizzBuzz in Python 3
 
-
+```
+# fizzbuzz
 # we make an empty list to store all the numbers
 fizzbuzz_list = []
 # an initial variable to add the numbers
@@ -31,3 +32,4 @@ for number in fizzbuzz_list:
         print(number)
 
 print("...")
+```
