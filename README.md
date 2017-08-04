@@ -3,7 +3,7 @@
 
 # we make an empty list to store all the numbers
 fizzbuzz_list = []
-# a initial variable to add the numbers
+# an initial variable to add the numbers
 numbers = 0
 
 # we will loop the list 100 times
